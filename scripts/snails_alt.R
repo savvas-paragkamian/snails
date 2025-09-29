@@ -2,7 +2,7 @@
 ## Script name:
 ##
 ## Purpose of script: 
-## Data summary and statistics of snail size of Anopolis Lafka Ori.
+## Data summary and statistics of snail size of Anopolis Lefka Ori.
 ##
 ## Author: Savvas Paragkamian
 ##

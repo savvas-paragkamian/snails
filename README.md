@@ -1,4 +1,4 @@
-# Snail Morphometrics – Anopolis Lafka Ori  
+# Snail Morphometrics – Anopolis Lefka Ori  
 
 This project analyzes morphometric traits of snails collected across altitudinal gradients in Anopolis, Lafka Ori.  
 The pipeline summarizes trait distributions, performs statistical analyses, and visualizes patterns including PCA.  
